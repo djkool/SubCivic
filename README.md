@@ -8,3 +8,9 @@ The mechanics of the game are inspired by a multiplayer mod called Shiprekt.
 ![Shiprekt](http://i.imgur.com/qpHor4R.gif)
 
 [See more Shiprekt gameplay.](https://youtu.be/hmiTzlkERBo?t=29m54s)
+
+Early screenshots:
+
+![](http://s30.postimg.org/i9mw0kd6p/blank.png)
+![](http://s9.postimg.org/d88abgdn3/Screen_Shot_2016_03_27_at_10_09_28_PM.png)
+![](http://s30.postimg.org/ocns8ejmp/Screen_Shot_2016_03_06_at_10_19_41_PM.png)
