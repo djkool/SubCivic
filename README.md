@@ -1,21 +1,21 @@
 # SubCivic
-In 2014 I posted a game called [Liferaft](https://steamcommunity.com/sharedfiles/filedetails/?id=273509438) on Steam Greenlight Concepts and it ranked #43. I built a quick prototype in Stencyl, but the game wasn't really fun. I didn't think that any amount of polish could change that.
+In **SubCivic** you build a submarine, manage your crew, and battle monsters while mining for ore (which you can sell to buy new modules for your sub). It's kind of a mash up between Motherload, Bad Piggies, and FTL.
 
-I'm currently hoping to capture the same thrill that made Liferaft so popular by developing a top-down exploration adventure. In **SubCivic** you build a submarine, manage your crew, and battle monsters while mining for ore (which you can sell to buy new modules for your sub). It's kind of a mash up between Motherload, Bad Piggies, and FTL.
-
-The mechanics of the game are inspired by a multiplayer mod called Shiprekt.
+The mechanics of the game are inspired by a multiplayer mod called [Shiprekt](https://youtu.be/hmiTzlkERBo?t=29m54s).
 
 ![Shiprekt](http://i.imgur.com/qpHor4R.gif)
 
-[See more Shiprekt gameplay.](https://youtu.be/hmiTzlkERBo?t=29m54s)
+## Creatures
 
-**Creatures
+Pistol Shrimp
 
-*Conreel*
+![](http://s33.postimg.org/9c7zgy12z/g_Lob.png?noCache=1465152557)
 
-![](http://s33.postimg.org/nit3u1xq3/Camoflauge_Fish.gif?noCache=1465151133)
+Conflounder 
 
-*Cryocanth*
+![](http://s33.postimg.org/6o7jx5a0r/g_Con.png?noCache=1465152819)
 
-![](http://s33.postimg.org/iday34ikb/Cryocanth.gif?noCache=1465151196)
+Sharky
+
+![](http://s33.postimg.org/v8pi7qkfv/g_Shar.png?noCache=1465152940)
 
