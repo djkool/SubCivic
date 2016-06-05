@@ -5,6 +5,10 @@ The mechanics of the game are inspired by a multiplayer mod called [Shiprekt](ht
 
 ![Shiprekt](http://i.imgur.com/qpHor4R.gif)
 
+## Story
+
+On a distant aquaplanet known simply as Ice V, humanity has located a powerful energy source deep within the frozen core. Competing intergalactic factions rush to colonize and conquer an infinite ocean, spanning across the entire planet’s surface. Little do they know of the titans that lurk in the depths.
+
 ## Creatures
 
 Pistol Shrimp
@@ -19,3 +23,6 @@ Sharky
 
 ![](http://s33.postimg.org/v8pi7qkfv/g_Shar.png?noCache=1465152940)
 
+## Prototype
+
+![](http://s33.postimg.org/6w2l36ghr/concept2.png)
