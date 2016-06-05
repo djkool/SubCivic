@@ -1,4 +1,7 @@
 # SubCivic
+
+The [Trello](https://trello.com/b/7kGjEi67/subcivic) page has updated information on current progress.
+
 In **SubCivic** you build a submarine, manage your crew, and battle monsters while mining for ore (which you can sell to buy new modules for your sub). It's kind of a mash up between Motherload, Bad Piggies, and FTL.
 
 The mechanics of the game are inspired by a multiplayer mod called [Shiprekt](https://youtu.be/hmiTzlkERBo?t=29m54s).
